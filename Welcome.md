@@ -6,5 +6,4 @@ When you're ready, delete this note and make the vault your own.
 
 [[23]]
 
-
-![[Pasted image 20250117224626.png]]
+![[123.png]]
