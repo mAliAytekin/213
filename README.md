@@ -10,7 +10,7 @@ bu github bloğunda [yapay zeka](yapay_zeka.md)ya dair genel bilgiler vardır. a
 
  [matematik.md](matematik\matematik.md) 
 
- [klasik_yz_algoritmalar.md](klasik_yz_algoritmalar\klasik_yz_algoritmalar.md)  
+ [klasik_yz_algoritmalar.md](klasik_yz_algoritmalar/klasik_yz_algoritmalar.md)  
 
 
 
